@@ -16,7 +16,7 @@ Today: microservices with NestJS & TypeScript, built with spec-driven agentic co
 
 <table>
   <tr>
-    <td align="center" width="25%"><h3>🏆 #1</h3>finance app in Kuwait<br/><sub>KIB PostPay</sub></td>
+    <td align="center" width="25%"><h3>🏆 #1</h3>finance app in Kuwait<br/><sub>BuyNow by KIB</sub></td>
     <td align="center" width="25%"><h3>⚡ −90%</h3>API latency, 1.2s → 130ms<br/><sub>Chefaa</sub></td>
     <td align="center" width="25%"><h3>📈 120K+</h3>monthly active users<br/><sub>Chefaa</sub></td>
     <td align="center" width="25%"><h3>📦 40K+</h3>orders in the first 2 months<br/><sub>Seoudi Supermarket</sub></td>
@@ -25,7 +25,8 @@ Today: microservices with NestJS & TypeScript, built with spec-driven agentic co
 
 ### 🔭 Right now
 
-- 🏦 **[KIB PostPay](https://apps.apple.com/th/app/kib-paytally/id6472891180)**: leading the squad behind a BNPL, marketplace and payment-gateway platform, and its move from a monolith to microservices
+- 🛍️ **[BuyNow by KIB](https://apps.apple.com/th/app/buynow-by-kib/id6472891180)** (formerly PostPay): leading the squad behind KIB's BNPL, marketplace and payment-gateway platform, and its move from a monolith to microservices
+- 🚗 **[DriveNow by KIB](https://apps.apple.com/th/app/drivenow-by-kib/id6768013717)**: car shopping and auto financing in one app, from browsing vehicles to approval
 - 🤖 **Agentic engineering**: spec-driven development (SpecKit), custom agent skills and MCPs. Open source: [matt-skills-ui](https://github.com/hsyam/matt-skills-ui)
 
 ### 🛠️ Stack
@@ -49,8 +50,8 @@ Today: microservices with NestJS & TypeScript, built with spec-driven agentic co
 
 <table>
   <tr>
-    <td width="50%" valign="top"><b><a href="https://apps.apple.com/th/app/kib-paytally/id6472891180">KIB PostPay</a></b><br/>BNPL and e-banking platform with quick approvals and flexible payments. #1 in Kuwait's finance category.<br/><sub>Node.js · NestJS · MSSQL · Microservices · Keycloak</sub></td>
-    <td width="50%" valign="top"><b><a href="https://chefaa.com">Chefaa</a></b><br/>High-traffic e-pharmacy serving 120K+ monthly users. Led the backend and the move from cPanel to AWS.<br/><sub>PHP · Laravel · MySQL · AWS · Node.js</sub></td>
+    <td width="50%" valign="top"><b><a href="https://apps.apple.com/th/app/buynow-by-kib/id6472891180">BuyNow by KIB</a></b> <sub>formerly PostPay</sub><br/>0% profit shopping and financing from KD300 to KD25,000 across auto, medical, education and electronics partners. #1 in Kuwait's finance category.<br/><sub>Node.js · NestJS · MSSQL · Microservices · Keycloak</sub></td>
+    <td width="50%" valign="top"><b><a href="https://apps.apple.com/th/app/drivenow-by-kib/id6768013717">DriveNow by KIB</a></b><br/>Car shopping and auto financing in one app: browse vehicles, apply, pick a repayment plan and track it to approval.<br/><sub>Kuwait International Bank</sub></td>
   </tr>
   <tr>
     <td width="50%" valign="top"><b><a href="https://seoudisupermarket.com">Seoudi Supermarket</a></b><br/>Omnichannel enterprise e-commerce with internal order-management apps, integrated with ERP and SAP.<br/><sub>Magento EE · Laravel · Node.js · MySQL · ELK</sub></td>
